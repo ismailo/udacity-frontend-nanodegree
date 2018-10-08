@@ -1,0 +1,50 @@
+.logo-image {
+	width: 160px;
+}
+
+.center-image {
+	width: 100%;
+}
+
+
+.small-images {
+	width: 300px;
+}
+
+
+.small-images-container,
+.top-row {
+	margin-top: 30px;
+}
+
+/*.line {
+	width: 100%;
+}*/
+
+.projects-title {
+    margin-top: 50px;
+}
+
+.line {
+	width: 100%;
+    display: block;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+}
+
+.section {
+	color: dimgray;
+}
+
+footer {
+	margin-top: 50px;
+	font-size: 1.2em;
+	font-weight: 400;
+	text-align: center;
+}
+
+.title {
+    color: silver;
+    margin-bottom: 50px;
+    text-align: center;
+}
