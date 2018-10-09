@@ -7,8 +7,13 @@
 }
 
 
-.small-images {
-	width: 300px;
+
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
@@ -20,6 +25,10 @@
 /*.line {
 	width: 100%;
 }*/
+
+main img {
+  width: 100%;
+}
 
 .projects-title {
     margin-top: 50px;
